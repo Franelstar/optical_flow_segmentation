@@ -1,0 +1,8 @@
+Membres du groupe :
+
+- MBIAYA KWUITE Franck Anael
+- KANA NGUIMFACK Kevin
+
+Le code qui accompagne ce travail est téléchargeable via le lien : https://github.com/Franelstar/optical_flow_segmentation.git
+
+Bonne reception !
